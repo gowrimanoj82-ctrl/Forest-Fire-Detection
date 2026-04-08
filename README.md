@@ -10,10 +10,14 @@ This project is a smart Forest Fire Detection System that uses IoT sensors and M
 * Remote monitoring capability
 * Low-cost and efficient design
 * Technologies Used
-# Hardware:ESP32 / Arduino, DHT11/DHT22, MQ-2/MQ-135
-# Software: Python, Embedded C
-# Machine Learning: Classification algorithms (Decision Tree, Random Forest, etc.)
-# 3IoT Platforms: MQTT / Blynk / Firebase / ThingSpeak
+# Hardware:
+ESP32 / Arduino, DHT11/DHT22, MQ-2/MQ-135
+# Software:
+Python, Embedded C
+# Machine Learning:
+Classification algorithms (Decision Tree, Random Forest, etc.)
+# 3IoT Platforms:
+MQTT / Blynk / Firebase / ThingSpeak
 # System Architecture
 Sensors collect environmental data (temperature, humidity, smoke).
 Data is sent to the cloud/server using ESP32/Arduino.
