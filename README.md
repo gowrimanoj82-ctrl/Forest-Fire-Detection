@@ -1,4 +1,4 @@
-##Forest Fire Detection System using Machine Learning & IoT
+# Forest Fire Detection System using Machine Learning & IoT
 # Overview
 
 This project is a smart Forest Fire Detection System that uses IoT sensors and Machine Learning to detect fire risks at an early stage. The system continuously monitors environmental conditions like temperature, humidity, and smoke levels, analyzes the data, and sends alerts when a potential fire hazard is detected.
